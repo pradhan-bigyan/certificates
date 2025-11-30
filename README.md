@@ -44,12 +44,12 @@ A collection of certificates I've earned through various learning platforms and 
 - **Intro to AI Engineering**
   - *Platform:* Scrimba
   - *Date:* November 29, 2025
-  - *Verification Link:* []
+  - *Verification Link:* [https://scrimba.com/@pradhan-bigyan:certs;cert2JbLs3qgBTxUnJsH7sh8mCY6LW3x53VbpoqvbE]
 
 - **Learn Accessible Web Design**
   - *Platform:* Scrimba
   - *Date:* November 29, 2025
-  - *Verification Link:* []
+  - *Verification Link:* [https://scrimba.com/@pradhan-bigyan:certs;cert2JbLs3qgBTxUnJsH7sh8mCY667s4yrCon93f1m]
 
 ## 🛠️ Skills Covered
 - Backend Development & APIs
@@ -64,7 +64,7 @@ A collection of certificates I've earned through various learning platforms and 
 
 ---
 
-**Total Certificates:** 10  
+**Total Certificates:** 9
 **Last Updated:** November 2025
 
-*Continuous learning, endless growing.*
+*Continuous learning, endless growing. - From AI*
